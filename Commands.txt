@@ -1,0 +1,20 @@
+// to initialize our project
+npm init
+
+npm i node
+// node app.js
+npm i express
+npm i nodemon
+// nodemon app.js
+// Some to do with try and catch error handler, maybe better then that, As we don't have to write try and catch
+npm i express-async-handler
+
+npm i cors
+
+npm i axios
+
+// To convert raw password to hash password
+npm i bcrypt
+
+// to carry user information
+npm i jsonwebtoken
